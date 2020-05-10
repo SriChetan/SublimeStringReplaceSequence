@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "String Replace: Create Replace Sequence",
+        "command": "create_replace_sequence"
+    }
+]
